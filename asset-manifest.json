@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cerebro-smart/static/css/main.ff4021b6.chunk.css",
+    "main.js": "/cerebro-smart/static/js/main.7f37ab8b.chunk.js",
+    "main.js.map": "/cerebro-smart/static/js/main.7f37ab8b.chunk.js.map",
+    "runtime-main.js": "/cerebro-smart/static/js/runtime-main.0c4d14aa.js",
+    "runtime-main.js.map": "/cerebro-smart/static/js/runtime-main.0c4d14aa.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/cerebro-smart/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.159a43a5.chunk.js": "/cerebro-smart/static/js/2.159a43a5.chunk.js",
+    "static/js/2.159a43a5.chunk.js.map": "/cerebro-smart/static/js/2.159a43a5.chunk.js.map",
+    "static/js/3.093c45f0.chunk.js": "/cerebro-smart/static/js/3.093c45f0.chunk.js",
+    "static/js/3.093c45f0.chunk.js.map": "/cerebro-smart/static/js/3.093c45f0.chunk.js.map",
+    "index.html": "/cerebro-smart/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/cerebro-smart/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.ff4021b6.chunk.css.map": "/cerebro-smart/static/css/main.ff4021b6.chunk.css.map",
+    "static/js/2.159a43a5.chunk.js.LICENSE.txt": "/cerebro-smart/static/js/2.159a43a5.chunk.js.LICENSE.txt",
+    "static/media/brain.481401c4.png": "/cerebro-smart/static/media/brain.481401c4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c4d14aa.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.159a43a5.chunk.js",
+    "static/css/main.ff4021b6.chunk.css",
+    "static/js/main.7f37ab8b.chunk.js"
+  ]
+}
