@@ -1,0 +1,19 @@
+.form {
+    width: 700px;
+    background-color: #e5e5f7;
+    opacity: 0.8;
+    background-color: #dda43b;
+    opacity: 1;
+    background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #dda43b 9px ), repeating-linear-gradient( #7911be55, #7911be );
+}
+
+button{
+    cursor: pointer;
+}
+
+.btn {
+    background-color: #42165f;
+}
+
+
+
