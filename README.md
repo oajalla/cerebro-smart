@@ -15,7 +15,7 @@ I made sure to protect my users privacy by adding some authentication layers on 
 ## Contributing 
 
 I know, there are a few things that would work better so pull requests are always welcome! For major changes, please open an issue first to discuss what you would like to change. 
-Please make sure to update test appropriate
+Please make sure to update tests as appropriate
 
 ```
 console.log('thank you for watching!!!')
